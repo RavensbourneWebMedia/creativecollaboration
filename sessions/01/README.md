@@ -3,8 +3,9 @@
 ### Today, Monday 7th October 2016
 
 1. [Welcome back](#welcome) :)
-* Introduction to brief
-* Teambuilding 
-* [Workshop](#workshop): HTML + CSS + JS recap, while building the `app template`
+2. [Goals for this session)[#goals
+2. [Introduction to brief](#introduction to brief)
+3. [Teambuilding](#teambuilding) 
+4. [Brainstorming)[#brainstorming]
 
 ### Your [homework](#homework) and [blog](#blog)!
