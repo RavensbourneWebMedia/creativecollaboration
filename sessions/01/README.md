@@ -4,7 +4,7 @@
 
 1. [Welcome back](#welcome) :)
 2. [Goals for this session](#goals)
-2. [Introduction to brief](#introduction to brief)
+2. [Introduction to brief](#introduction-to-brief)
 3. [Teambuilding](#teambuilding) 
 4. [Brainstorming)(#brainstorming)
 
