@@ -5,8 +5,7 @@
 1. [Welcome back](#welcome) :)
 2. [Goals for this session](#goals)
 2. [Introduction to brief](#introduction-to-brief)
-3. [Teambuilding](#teambuilding) 
-4. [Brainstorming](#brainstorming)
+3. [Get to know the CC team](#ccteam)
 
 ### Your [homework](#homework) and [blog](#blog)!
 
