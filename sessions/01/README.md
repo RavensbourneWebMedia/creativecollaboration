@@ -68,7 +68,9 @@ A 360 degree approach means thinking holistically about the brand identiy and ho
 * What are the visual assets you need to create? 
 
 
-### Picture library (Led by photography students)
+### Project B: Picture library (Led by photography students)
+
+### Project Report 
 
 
 # Homework 
