@@ -78,7 +78,7 @@ A 360 degree approach means thinking holistically about the brand identiy and ho
 
 ### Project B: Picture library (Led by photography students)
 
-<img src="https://github.com/RavensbourneWebMedia/creativecollaboration/blob/2017/assets%20/ccbreakdown.jpg" width="900">
+<img src="https://github.com/RavensbourneWebMedia/creativecollaboration/blob/2017/assets%20/stockphoto.jpg" width="900">
 
 
 Your goal for this project is to collaborate with students from Web Media and Design & Coding to produce a live photo library. You will work in a team (appointed by your tutors) to undertake this project. You will research libraries, analyse market trends and niche subject gaps that you can fill. 
