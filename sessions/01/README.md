@@ -13,6 +13,11 @@
 
 <iframe src="https://giphy.com/embed/kMM3vtBEgSsLu" width="580" height="359" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
+
+![alt text](https://media.giphy.com/media/kMM3vtBEgSsLu/giphy.gif "Logo Title Text 1")
+
+
+
 # Goals for this session 
 
 ### Goals 
