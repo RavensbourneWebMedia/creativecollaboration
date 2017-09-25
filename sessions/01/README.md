@@ -31,6 +31,14 @@
 * When is the formative for **project A**?
 * When is the summatives for **both projects**?
 
+# Who is on the CC team? 
+
+* Nick Rothwell 
+* Tor-Arne Njamo 
+* Julian Hawkins 
+* Geraint Cunnick 
+* Abigail Summerfield
+* Bill
 
 # Introduction to brief 
 
