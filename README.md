@@ -18,15 +18,15 @@ When | In class | Homework | Blog
 ---- | -------- | -------- | ----
 [Monday<br>02.10](sessions/01)| Welcome | Peer learning research: choose a topic to research and teach next week (teams of ~3) | TBA
 [Monday<br>09.10](sessions/02)| <ul><li>Peer learning <li>TBA | TBA | TBA
-[Monday<br>16.10](sessions/03)| <ul><li>Peer learning <li>TBA | Prepare formative | TTBA
-[Monday<br>23.10](sessions/04)| **Formative presentations** | <ul><li>Codewars kata <li>Work on *Filtr Findr* | Reflection blog 
-[Monday<br>30.10](sessions/05)| <ul><li>Formative assesment<li>Tutorials on *Filtr Findr* | <ul><li>Peer learning research <li>Work on *Filtr Findr* | WTF is an API?
-[Monday<br>06.11](sessions/06)| <ul><li>Peer learning <li>Tutorials on *Filtr Findr* | <ul><li>Codewars kata <li>Work on *Filtr Findr* | Lessons from the *story* of your project
-[Monday<br>13.11](sessions/07)| Tutorials on *Filtr Findr* | Prepare summative (tweak your work) | TBA 
-[Monday<br>20.11](sessions/08)| Tutorials on *Filtr Findr* | Prepare summative (tweak your work) | TBA
-[Monday<br>27.11](sessions/09)| Tutorials on *Filtr Findr* | Prepare summative (tweak your work) | TBA
-[Monday<br>04.12](sessions/10)| Tutorials on *Filtr Findr* | Prepare summative (tweak your work) | TBA
-[Monday<br>12.12](sessions/11)| Tutorials on *Filtr Findr* | Prepare summative (tweak your work) 
+[Monday<br>16.10](sessions/03)| <ul><li>Peer learning <li>TBA | Prepare formative | TBA
+[Monday<br>23.10](sessions/04)| **Formative presentations** | TBA | TBA
+[Monday<br>30.10](sessions/05)| <ul><li>Peer learning <li>TBA | TBA | TBA
+[Monday<br>06.11](sessions/06)| <ul><li>Peer learning <li>TBA | TBA | TBA
+[Monday<br>13.11](sessions/07)| <ul><li>Peer learning <li>TBA | TBA | TBA 
+[Monday<br>20.11](sessions/08)| <ul><li>Peer learning <li>TBA | TBA | TBA
+[Monday<br>27.11](sessions/09)| <ul><li>Peer learning <li>TBA | TBA | TBA
+[Monday<br>04.12](sessions/10)| <ul><li>Peer learning <li>TBA | TBA | TBA
+[Monday<br>12.12](sessions/11)| <ul><li>Peer learning <li>TBA | TBA 
 
 # Projects 
 
