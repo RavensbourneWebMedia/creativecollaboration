@@ -11,9 +11,7 @@
 
 # Welcome back 
 
-
-![alt text](https://media.giphy.com/media/kMM3vtBEgSsLu/giphy.gif "Logo Title Text 1")
-
+<img src="https://media.giphy.com/media/kMM3vtBEgSsLu/giphy.gif" width="900">
 
 
 # Goals for this session 
@@ -24,7 +22,7 @@
 * Team allocation 
 * To get to know the creative collaboration team 	
 
-### Questions to answer at the end 
+### Questions you should be able to answer at the end
 
 * What does **project A** ask you to do? 
 * What does **project B** ask you to do? 
@@ -68,15 +66,8 @@ A 360 degree approach means thinking holistically about the brand identiy and ho
 
 
 
-### Image gallery 
+# Image gallery 
 
-# Teambuilding exercise 
-
-# Brainstorming ideas 
-
-Tools for brainstorming ideas 
-
-Mindmaps 
 
 # Homework 
 
