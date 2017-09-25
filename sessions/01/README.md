@@ -1,6 +1,6 @@
 # Week 1
 
-### Today, Monday 7th October 2016
+### Today, Monday 2nd October 2017
 
 1. [Welcome back](#welcome) :)
 2. [Goals for this session](#goals)
@@ -34,24 +34,37 @@
 
 # Introduction to brief 
 
-### Re-brand 
+As its names suggests, this unit is all about collaboration. The web and photography industries often work together to make innovative campaigns and rebrands. The ability to work effectively in a team is vital for anyone wanting to make a career in either industry. This unit will not only test your ability to work with others, it will help to develop your ability to work with students from another course, in this case the Digital Photography course. To do that, you will have to understand the world of photography more deeply.
 
-
-Research your brand 
-What is their current visual expression 
-How will you make it different? 
-What are the visual assets you need to create? 
+### Project A: Change by Design 
 
 
 
-Brand assets:
-Logo
-Photograhy 
-Typography
-Colorscheme 
-Target group 
-Language 
-look and feel 
+Each group will be allocated an iconic brand to explore and refresh. Whatever the brand, you must take a 360 degree appoach. 
+
+A 360 degree approach means thinking holistically about the brand identiy and how it translets across different mediums/sizes. 
+
+
+**The brand identity could include:**
+
+* Photography 
+* Logo 
+* Taglines 
+* Social Media 
+* Typography
+* Web Banners 
+* Colorscheme 
+* Language 
+* Target group 
+* Subway banners etc 
+
+
+**Research:**
+
+* What is your brand current visual expression?
+* How will you make it different? 
+* What are the visual assets you need to create? 
+
 
 
 
