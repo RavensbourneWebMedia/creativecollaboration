@@ -11,13 +11,13 @@
 
 # Welcome back 
 
-
+<iframe src="https://giphy.com/embed/kMM3vtBEgSsLu" width="580" height="359" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 # Goals for this session 
 
 ### Goals 
 
-* A deep understanding of the breif 
+* A deep understanding of the brief
 * Team allocation 
 * To get to know the creative collaboration team 	
 
