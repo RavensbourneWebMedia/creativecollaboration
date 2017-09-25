@@ -36,7 +36,7 @@
 
 As its names suggests, this unit is all about collaboration. The web and photography industries often work together to make innovative campaigns and rebrands. The ability to work effectively in a team is vital for anyone wanting to make a career in either industry. This unit will not only test your ability to work with others, it will help to develop your ability to work with students from another course, in this case the Digital Photography course. To do that, you will have to understand the world of photography more deeply.
 
-### Project A: Change by Design 
+### Project A: Change by Design (Led by Web Media and Design&Coding students) 
 
 
 
@@ -68,7 +68,7 @@ A 360 degree approach means thinking holistically about the brand identiy and ho
 
 
 
-# Image gallery 
+# Picture library (Led by photography students)
 
 
 # Homework 
