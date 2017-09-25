@@ -78,7 +78,16 @@ A 360 degree approach means thinking holistically about the brand identiy and ho
 
 ### Project B: Picture library (Led by photography students)
 
+Your goal for this project is to collaborate with students from Web Media and Design & Coding to produce a live photo library. You will work in a team (appointed by your tutors) to undertake this project. You will research libraries, analyse market trends and niche subject gaps that you can fill. 
+You will then begin to produce content for this library which will be built by your partners from Web Media and Design & Coding.
+
+
 ### Project Report 
+
+Within this report you are requested to critically reflect on your contribution and role within this project. Explain what you learnt from collaborating with others and what successes came out of the project. Also explain what you could have improved on as a group and independently. Within the report please also summarise the approach you took to develop the content for the website and the overall outcome. Include the strategy you adopted, what influences and references you took to develop the look and feel of the site, how you would use the project experience to enhance your on- and offline profile, what you learned about the process, plus how you would price yourself for a future, similar freelance job (your day rate).
+
+**Lenght: 1500 words**
+
 
 
 # Homework 
