@@ -18,7 +18,7 @@ When | In class | Homework | Blog
 ---- | -------- | -------- | ----
 [Monday<br>02.10](sessions/01)| Welcome | Peer learning research: choose a topic to research and teach next week (teams of ~3) | Analyse your favourite apps
 [Monday<br>09.10](sessions/02)| <ul><li>Peer learning <li>Refresh on design princples | Codewars kata | *Filtr Findr* brain*storming*
-[Monday<br>16.10](sessions/03)| <ul><li>Brain*swarming* <li>Workshop: design your own database<li>Codewars kata | Prepare formative | The best interface is no interface
+[Monday<br>16.10](sessions/03)| <ul><li>Peer learning <li>TBA | Prepare formative | The best interface is no interface
 [Monday<br>23.10](sessions/04)| **Formative presentations** | <ul><li>Codewars kata <li>Work on *Filtr Findr* | Reflection blog 
 [Monday<br>30.10](sessions/05)| <ul><li>Formative assesment<li>Tutorials on *Filtr Findr* | <ul><li>Peer learning research <li>Work on *Filtr Findr* | WTF is an API?
 [Monday<br>06.11](sessions/06)| <ul><li>Peer learning <li>Tutorials on *Filtr Findr* | <ul><li>Codewars kata <li>Work on *Filtr Findr* | Lessons from the *story* of your project
