@@ -4,8 +4,10 @@
 
 1. [Welcome back](#welcome) :)
 2. [Goals for this session](#goals)
-2. [Introduction to brief](#introduction-to-brief)
 3. [Get to know the CC team](#ccteam)
+4. [Introduction to brief](#introduction-to-brief)
+5. [Team allocation](#teamallocation)
+
 
 ### Your [homework](#homework) and [blog](#blog)!
 
