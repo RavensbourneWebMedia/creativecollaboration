@@ -12,7 +12,7 @@
 # Welcome back 
 
 
-![alt text](https://media.giphy.com/media/kMM3vtBEgSsLu/giphy.gif width="580" height="359" "Logo Title Text 1")
+![alt text](https://media.giphy.com/media/kMM3vtBEgSsLu/giphy.gif "Logo Title Text 1")
 
 
 
