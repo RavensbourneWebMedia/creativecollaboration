@@ -21,13 +21,12 @@
 * Team allocation 
 * To get to know the creative collaboration team 	
 
-
-
 ### Questions to answer at the end 
 
-*
-*
-*
+* What does **project A** ask you to do? 
+* What does **project B** ask you to do? 
+* When is the formative for **project A**?
+* When is the summatives for **both projects**?
 
 
 # Introduction to brief 
