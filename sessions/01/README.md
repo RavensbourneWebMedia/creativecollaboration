@@ -6,7 +6,7 @@
 2. [Goals for this session](#goals)
 2. [Introduction to brief](#introduction-to-brief)
 3. [Teambuilding](#teambuilding) 
-4. [Brainstorming)(#brainstorming)
+4. [Brainstorming](#brainstorming)
 
 ### Your [homework](#homework) and [blog](#blog)!
 
@@ -17,6 +17,12 @@
 # Goals for this session 
 
 ### Goals 
+
+* A deep understanding of the breif 
+* Team allocation 
+* To get to know the creative collaboration team 	
+
+
 
 ### Questions to answer at the end 
 
