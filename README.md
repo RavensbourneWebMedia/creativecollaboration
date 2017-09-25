@@ -24,7 +24,7 @@ When | In class | Homework | Blog
 [Monday<br>06.11](sessions/06)| <ul><li>Peer learning <li>TBA | TBA | TBA
 [Monday<br>13.11](sessions/07)| <ul><li>Peer learning <li>TBA | TBA | TBA 
 [Monday<br>20.11](sessions/08)| <ul><li>Peer learning <li>TBA | TBA | TBA
-[Monday<br>27.11](sessions/09)| <ul><li>Peer learning <li>TBA | TBA | TBA
+[Monday<br>27.11](sessions/09)| **Prepare for summative** | TBA | TBA
 [Monday<br>04.12](sessions/10)| <ul><li>Peer learning <li>TBA | TBA | TBA
 [Monday<br>12.12](sessions/11)| <ul><li>Peer learning <li>TBA | TBA 
 
