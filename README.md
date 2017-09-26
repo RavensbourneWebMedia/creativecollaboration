@@ -18,13 +18,21 @@ When | In class | Homework | Blog
 [Monday<br>02.10](sessions/01)| Welcome | Peer learning research: choose a topic to research and teach next week (teams of ~3) | TBA
 Wednesday 04.10 | Creative Collaboration wednesday session 
 [Monday<br>09.10](sessions/02)| <ul><li>Peer learning <li>TBA | TBA | TBA
+Wednesday 11.10 | Creative Collaboration wednesday session 
 [Monday<br>16.10](sessions/03)| <ul><li>Peer learning <li>TBA | Prepare formative | TBA
+Wednesday 18.10 | Creative Collaboration wednesday session 
 [Monday<br>23.10](sessions/04)| **Formative presentations** | TBA | TBA
+Wednesday 25.10 | Creative Collaboration wednesday session 
 [Monday<br>30.10](sessions/05)| <ul><li>Peer learning <li>TBA | TBA | TBA
+Wednesday 01.11 | Creative Collaboration wednesday session 
 [Monday<br>06.11](sessions/06)| <ul><li>Peer learning <li>TBA | TBA | TBA
+Wednesday 08.11 | Creative Collaboration wednesday session 
 [Monday<br>13.11](sessions/07)| <ul><li>Peer learning <li>TBA | TBA | TBA 
+Wednesday 15.11 | Creative Collaboration wednesday session 
 [Monday<br>20.11](sessions/08)| <ul><li>Peer learning <li>TBA | TBA | TBA
+Wednesday 22.11 | Creative Collaboration wednesday session 
 [Monday<br>27.11](sessions/09)| **Prepare for summative** | Summative on 29th of November | TBA
+Wednesday 29.11 | Creative Collaboration wednesday session | SUMMATIVE PRESENTATION
 [Monday<br>04.12](sessions/10)| <ul><li>Peer learning <li>TBA | TBA | TBA
 [Monday<br>12.12](sessions/11)| <ul><li>Peer learning <li>TBA | TBA 
 
