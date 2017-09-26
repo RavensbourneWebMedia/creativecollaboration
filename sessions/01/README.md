@@ -49,7 +49,6 @@ As its names suggests, this unit is all about collaboration. The web and photogr
 ### Project A: Change by Design (Led by Web Media and Design&Coding students) 
 
 
-
 Each group will be allocated an iconic brand to explore and refresh. Whatever the brand, you must take a 360 degree appoach. 
 
 A 360 degree approach means thinking holistically about the brand identiy and how it translets across different mediums/sizes. 
@@ -69,13 +68,6 @@ A 360 degree approach means thinking holistically about the brand identiy and ho
 * Subway banners etc 
 
 
-**Research:**
-
-* What is your brand current visual expression?
-* How will you make it different? 
-* What are the visual assets you need to create? 
-
-
 ### Project B: Picture library (Led by photography students)
 
 <img src="https://github.com/RavensbourneWebMedia/creativecollaboration/blob/2017/assets%20/stockphoto.jpg" width="900">
@@ -89,8 +81,12 @@ You will then begin to produce content for this library which will be built by y
 
 Within this report you are requested to critically reflect on your contribution and role within this project. Explain what you learnt from collaborating with others and what successes came out of the project. Also explain what you could have improved on as a group and independently. Within the report please also summarise the approach you took to develop the content for the website and the overall outcome. Include the strategy you adopted, what influences and references you took to develop the look and feel of the site, how you would use the project experience to enhance your on- and offline profile, what you learned about the process, plus how you would price yourself for a future, similar freelance job (your day rate).
 
-**Lenght: 1500 words**
+**Length: 1500 words**
 
+### Team allocation 
+
+
+link to google doc 
 
 
 # Homework 
