@@ -16,7 +16,7 @@ In particular, you will learn:
 When | In class | Homework | Blog 
 ---- | -------- | -------- | ----
 [Monday<br>02.10](sessions/01)| Welcome | Peer learning research: choose a topic to research and teach next week (teams of ~3) | TBA
-Wednesday 04.10 | Creative Collaboration wednesday session |  | 
+Wednesday 04.10 | Creative Collaboration wednesday session 
 [Monday<br>09.10](sessions/02)| <ul><li>Peer learning <li>TBA | TBA | TBA
 [Monday<br>16.10](sessions/03)| <ul><li>Peer learning <li>TBA | Prepare formative | TBA
 [Monday<br>23.10](sessions/04)| **Formative presentations** | TBA | TBA
