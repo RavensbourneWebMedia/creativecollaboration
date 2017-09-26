@@ -7,7 +7,8 @@
 3. [Get to know the CC team](#ccteam)
 4. [Introduction to brief](#introduction-to-brief)
 5. [Team allocation](#teamallocation)
-
+6. [Homework](#homework)
+7. [Blog](#blog)
 
 ### Your [homework](#homework) and [blog](#blog)!
 
