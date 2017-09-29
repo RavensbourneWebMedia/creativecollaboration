@@ -37,7 +37,7 @@
 * Julian Hawkins
 * Geraint Cunnick
 * Abigail Summerfield
-* Bill
+* Bill Wallsgrove 
 
 # Introduction to brief
 
@@ -87,8 +87,28 @@ Within this report you are requested to critically reflect on your contribution 
 link to google doc
 
 
-The next section only concerns Design&Coding and Web Media students.
+**The next section only concerns Design&Coding and Web Media students.**
 
 # Homework
 
-# Blogs
+Peer learning to be presented in class next week.
+
+What do we mean by 'branding'?
+
+What do we mean when we say 'brand propositioning'?
+
+What is 'unique selling proposition'?
+
+Why is a 'brand leader' and 'brand ambassador' important?
+
+What does 'brand equity' mean?
+
+
+
+**Hot tip:** Here is a [link to a very helpful lynda video](https://www.lynda.com/Enterprise-Marketing-tutorials/What-Brand-Equity/490749/515827-4.html?org=ravensbourne.ac.uk)
+
+# Blog
+
+**What is the biggest challenge with teamwork?**
+
+Working in teams can be a real challenge. Therefore, I would like you to reflect on the biggest challenges that you find by working in teams and what some of ways to address these issues might be.
