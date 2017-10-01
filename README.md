@@ -15,7 +15,7 @@ In particular, you will learn:
 
 When | In class | Homework | Blog
 ---- | -------- | -------- | ----
-[Monday<br>02.10](sessions/01)| Welcome | Peer learning research: Branding 
+[Monday<br>02.10](sessions/01)| Welcome | Peer learning research: Branding | What is the biggest challenge with teamwork? 
 Wednesday 04.10 | Creative Collaboration wednesday session
 [Monday<br>09.10](sessions/02)| <ul><li>Peer learning <li>TBA | TBA | TBA
 Wednesday 11.10 | Creative Collaboration wednesday session
