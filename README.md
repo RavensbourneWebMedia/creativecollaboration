@@ -15,24 +15,24 @@ In particular, you will learn:
 
 When | In class | Homework | Blog
 ---- | -------- | -------- | ----
-[Monday<br>02.10](sessions/01)| Welcome | Peer learning research: Branding | What is the biggest challenge with teamwork? 
-Wednesday 04.10 | Creative Collaboration wednesday session
+[Monday<br>02.10](sessions/01)| Welcome | Peer learning research: Branding | What is the biggest challenge with teamwork?
+Wednesday 04.10 | Creative Collaboration Wednesday session
 [Monday<br>09.10](sessions/02)| <ul><li>Peer learning <li>TBA | TBA | TBA
-Wednesday 11.10 | Creative Collaboration wednesday session
+Wednesday 11.10 | Creative Collaboration Wednesday session
 [Monday<br>16.10](sessions/03)| <ul><li>Peer learning <li>TBA | Prepare formative | TBA
-Wednesday 18.10 | Creative Collaboration wednesday session
+Wednesday 18.10 | Creative Collaboration Wednesday session
 [Monday<br>23.10](sessions/04)| **Formative presentations** | TBA | TBA
-Wednesday 25.10 | Creative Collaboration wednesday session
+Wednesday 25.10 | Creative Collaboration Wednesday session
 [Monday<br>30.10](sessions/05)| <ul><li>Peer learning <li>TBA | TBA | TBA
-Wednesday 01.11 | Creative Collaboration wednesday session
+Wednesday 01.11 | Creative Collaboration Wednesday session
 [Monday<br>06.11](sessions/06)| <ul><li>Peer learning <li>TBA | TBA | TBA
-Wednesday 08.11 | Creative Collaboration wednesday session
+Wednesday 08.11 | Creative Collaboration Wednesday session
 [Monday<br>13.11](sessions/07)| <ul><li>Peer learning <li>TBA | TBA | TBA
-Wednesday 15.11 | Creative Collaboration wednesday session
+Wednesday 15.11 | Creative Collaboration Wednesday session
 [Monday<br>20.11](sessions/08)| <ul><li>Peer learning <li>TBA | TBA | TBA
-Wednesday 22.11 | Creative Collaboration wednesday session
-[Monday<br>27.11](sessions/09)| **Prepare for summative** | Summative on 29th of November | TBA
-Wednesday 29.11 | Creative Collaboration wednesday session | SUMMATIVE PRESENTATION
+Wednesday 22.11 | Creative Collaboration Wednesday session
+[Monday<br>27.11](sessions/09)| **Prepare for summative** | **Prepare for summative** | TBA
+Wednesday 29.11 | Creative Collaboration Wednesday session | **SUMMATIVE PRESENTATION**
 [Monday<br>04.12](sessions/10)| <ul><li>Peer learning <li>TBA | TBA | TBA
 [Monday<br>12.12](sessions/11)| <ul><li>Peer learning <li>TBA | TBA
 
@@ -78,9 +78,22 @@ Within this report you are requested to critically reflect on your contribution 
 
 # Learning Goals
 
+* Understanding of the language, techniques and values of another discipline to assist collaboration and innovation.
+
+* Production of entrepreneurial and creative ideas and critically  evaluate them and their impact within the market, taking into consideration ethical and sustainability factors.
+
+* Critical evaluation and synthesis of appropriate company, consumer behaviour and market intelligence to generate insight and audience development.
+
+* Identify, build and use professional networks and skillsets in support of a proposition and career development.
+
+* Implement a project plan for operational and/or financial purposes.
+
+* Knowledge of licensing, income generation, pricing models for freelance and business activities.
+
+
 # Rules of the road
 
-* **Be present**. If you happen to be late or absent, make sure you email me about it before a session starts. We'll deduct 2% from your grade for each uncommunicated tardiness or absence (aka the *2% Tardiness Tax*).
+* **Be present**. If you happen to be late or absent, make sure you email me about it before a session starts.
 * **Participate** in class debates and workshops. We'll make sure that your ideas have space to be heard and that nobody makes you feel uncomfortable about sharing them.
 * **Present** your work during formative and summative assessments. If you can't make it those days then you'll record your presentation and upload it to YouTube (or similar).
 * **Be responsible** for what happens in class. Organise with your peers to get class information and material that you may have missed.
