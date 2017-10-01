@@ -37,7 +37,7 @@
 * Julian Hawkins
 * Geraint Cunnick
 * Abigail Summerfield
-* Bill Wallsgrove 
+* Bill Wallsgrove
 
 # Introduction to brief
 
@@ -102,6 +102,7 @@ What is 'unique selling proposition'?
 Why is a 'brand leader' and 'brand ambassador' important?
 
 What does 'brand equity' mean?
+
 
 
 
