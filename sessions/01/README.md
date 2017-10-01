@@ -84,14 +84,14 @@ Within this report you are requested to critically reflect on your contribution 
 
 ### Team allocation
 
-link to google doc
+[Here is a link to the google doc with the teams and brands](https://docs.google.com/a/rave.ac.uk/spreadsheets/d/1xu1WENCZlZizewKf2SAKWLoxGtug986qIJ4Tc5bXZiY/edit?usp=sharing)
 
 
 **The next section only concerns Design&Coding and Web Media students.**
 
 # Homework
 
-* **Peer learning**: [one of the most effective ways](http://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/hattie-ranking-teaching-effects/) to learn something is to teach it to someone else. During this unit you'll be sharing your skills and knowledge in class, leading mini-tutorials and moderating debates. Starting with [your homework for next week](#peer-learning-research)!
+**Peer learning**: [one of the most effective ways](http://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/hattie-ranking-teaching-effects/) to learn something is to teach it to someone else. During this unit you'll be sharing your skills and knowledge in class, leading mini-tutorials and moderating debates. Starting with [your homework for next week](#peer-learning-research)!
 
 
 Who | What
@@ -107,7 +107,7 @@ Kevin<br>Muhammad<br>Kaleshe | What does 'brand equity' mean?
 
 # Blog
 
-* Keeping a **journal** to record your creative process is extremely important. Don't let your ideas and thoughts fade away! Think of your blog as your *digital sketchbook* (more on that [here](https://github.com/RavensbourneWebMedia/Blogging#why-blogging)). We ask you to blog regularly and we'll check that you do it every week.
+Keeping a **journal** to record your creative process is extremely important. Don't let your ideas and thoughts fade away! Think of your blog as your *digital sketchbook* (more on that [here](https://github.com/RavensbourneWebMedia/Blogging#why-blogging)). We ask you to blog regularly and we'll check that you do it every week.
 
 **What is the biggest challenge with teamwork?**
 
