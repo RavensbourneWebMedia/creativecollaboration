@@ -91,24 +91,23 @@ link to google doc
 
 # Homework
 
-Peer learning to be presented in class next week.
-
-What do we mean by 'branding'?
-
-What do we mean when we say 'brand propositioning'?
-
-What is 'unique selling proposition'?
-
-Why is a 'brand leader' and 'brand ambassador' important?
-
-What does 'brand equity' mean?
+* **Peer learning**: [one of the most effective ways](http://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/hattie-ranking-teaching-effects/) to learn something is to teach it to someone else. During this unit you'll be sharing your skills and knowledge in class, leading mini-tutorials and moderating debates. Starting with [your homework for next week](#peer-learning-research)!
 
 
+Who | What
+--- | -----------
+Callum<br>Peyman | What do we mean by 'branding'?
+Mayur<br>Claranz | What do we mean when we say 'brand propositioning'?
+Dominic<br>Richardo | What is 'unique selling proposition'?
+Emma<br>Jacob | Why is a 'brand leader' and 'brand ambassador' important?
+Kevin<br>Muhammad<br>Kaleshe | What does 'brand equity' mean?
 
 
 **Hot tip:** Here is a [link to a very helpful lynda video](https://www.lynda.com/Enterprise-Marketing-tutorials/What-Brand-Equity/490749/515827-4.html?org=ravensbourne.ac.uk)
 
 # Blog
+
+* Keeping a **journal** to record your creative process is extremely important. Don't let your ideas and thoughts fade away! Think of your blog as your *digital sketchbook* (more on that [here](https://github.com/RavensbourneWebMedia/Blogging#why-blogging)). We ask you to blog regularly and we'll check that you do it every week.
 
 **What is the biggest challenge with teamwork?**
 
