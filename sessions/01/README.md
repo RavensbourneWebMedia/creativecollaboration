@@ -96,8 +96,8 @@ Within this report you are requested to critically reflect on your contribution 
 
 Who | What
 --- | -----------
-Callum<br>Peyman | What do we mean by 'branding'?
-Mayur<br>Claranz | What do we mean when we say 'brand propositioning'?
+Callum<br>Peyman<br>Milton | What do we mean by 'branding'?
+Mayur<br>Claranz<br>Micheal | What do we mean when we say 'brand propositioning'?
 Dominic<br>Richardo | What is 'unique selling proposition'?
 Emma<br>Jacob | Why is a 'brand leader' and 'brand ambassador' important?
 Kevin<br>Muhammad<br>Kaleshe | What does 'brand equity' mean?
