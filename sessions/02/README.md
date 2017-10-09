@@ -1,4 +1,4 @@
-# Week 1
+# Week 2
 
 ### Today, Monday 9th October 2017
 
@@ -7,21 +7,22 @@
 
 ### Goals
 
-* TBA
+* Become more familiar with your group
+* Have a tutorial with Julian and Tor
 
 ### Questions you should be able to answer at the end
 
-* TBA
+* How do I feel about this project?
+* What is my biggest takeaway?
 
 
-With your team having determined the different roles that each person should have you should be undertaking planning & execution of the Re-Branding Exercise for your Web Media partners.
+With your team having determined the different roles that each person should have you should be undertaking planning & execution of the Re-Branding Exercise for your photography partners.
 
 At the same time you should be discussing ideas for the Picture Library that you will be creating as the second part of this assignment.
 
 Each team should set up a G Drive on to which DGP students will upload their files for Web Media to access.
 
 Make this drive accessible to your Web Media partners & your tutors.
-
 
 **On Monday 9/10/17** We will be running separate team tutorials in room 208. Here's the schedule:
 
@@ -36,8 +37,8 @@ When | Who
 
 # Homework
 
-TBA
+Continue homework from last week to present in class.
 
 # Blog
 
-TBA
+What are some of the current trends around contemporary branding? 
