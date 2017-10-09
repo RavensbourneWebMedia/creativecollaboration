@@ -14,27 +14,27 @@ In particular, you will learn:
 # Plan
 
 When | In class | Homework | Blog
----- | -------- | -------- | ----
-[Monday<br>02.10](sessions/01)| Welcome | Peer learning research: Branding | What is the biggest challenge with teamwork?
+\---- | -------- | -------- | ----
+[Monday<br>02.10][1]| Welcome | Peer learning research: Branding | What is the biggest challenge with teamwork?
 Wednesday 04.10 | Creative Collaboration Wednesday session
-[Monday<br>09.10](sessions/02)| <ul><li>Peer learning <li>TBA | TBA | TBA
+[Monday<br>09.10][2]| Tutorials | Continue homework from last week to present in class. | What are some of the current trends around contemporary branding? And why are the trends? 
 Wednesday 11.10 | Creative Collaboration Wednesday session
-[Monday<br>16.10](sessions/03)| <ul><li>Peer learning <li>TBA | Prepare formative | TBA
+[Monday<br>16.10][3]| <ul><li>Peer learning <li>TBA | Prepare formative | TBA
 Wednesday 18.10 | Creative Collaboration Wednesday session
-[Monday<br>23.10](sessions/04)| **Formative presentations** | TBA | TBA
+[Monday<br>23.10][4]| **Formative presentations** | TBA | TBA
 Wednesday 25.10 | Creative Collaboration Wednesday session
-[Monday<br>30.10](sessions/05)| <ul><li>Peer learning <li>TBA | TBA | TBA
+[Monday<br>30.10][5]| <ul><li>Peer learning <li>TBA | TBA | TBA
 Wednesday 01.11 | Creative Collaboration Wednesday session
-[Monday<br>06.11](sessions/06)| <ul><li>Peer learning <li>TBA | TBA | TBA
+[Monday<br>06.11][6]| <ul><li>Peer learning <li>TBA | TBA | TBA
 Wednesday 08.11 | Creative Collaboration Wednesday session
-[Monday<br>13.11](sessions/07)| <ul><li>Peer learning <li>TBA | TBA | TBA
+[Monday<br>13.11][7]| <ul><li>Peer learning <li>TBA | TBA | TBA
 Wednesday 15.11 | Creative Collaboration Wednesday session
-[Monday<br>20.11](sessions/08)| <ul><li>Peer learning <li>TBA | TBA | TBA
+[Monday<br>20.11][8]| <ul><li>Peer learning <li>TBA | TBA | TBA
 Wednesday 22.11 | Creative Collaboration Wednesday session
-[Monday<br>27.11](sessions/09)| **Prepare for summative** | **Prepare for summative** | TBA
+[Monday<br>27.11][9]| **Prepare for summative** | **Prepare for summative** | TBA
 Wednesday 29.11 | Creative Collaboration Wednesday session | **SUMMATIVE PRESENTATION**
-[Monday<br>04.12](sessions/10)| <ul><li>Peer learning <li>TBA | TBA | TBA
-[Monday<br>12.12](sessions/11)| <ul><li>Peer learning <li>TBA | TBA
+[Monday<br>04.12][10]| <ul><li>Peer learning <li>TBA | TBA | TBA
+[Monday<br>12.12][11]| <ul><li>Peer learning <li>TBA | TBA
 
 # Projects
 
@@ -98,3 +98,15 @@ Within this report you are requested to critically reflect on your contribution 
 * **Present** your work during formative and summative assessments. If you can't make it those days then you'll record your presentation and upload it to YouTube (or similar).
 * **Be responsible** for what happens in class. Organise with your peers to get class information and material that you may have missed.
 * **Meet the deadlines**. If you submit your work after a deadline, your grade will be capped at D- (bare pass).
+
+[1]:	sessions/01
+[2]:	sessions/02
+[3]:	sessions/03
+[4]:	sessions/04
+[5]:	sessions/05
+[6]:	sessions/06
+[7]:	sessions/07
+[8]:	sessions/08
+[9]:	sessions/09
+[10]:	sessions/10
+[11]:	sessions/11
