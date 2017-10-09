@@ -84,16 +84,13 @@ Within this report you are requested to critically reflect on your contribution 
 
 ### Team allocation
 
-[Here is a link to the google doc with the teams and brands](https://docs.google.com/a/rave.ac.uk/spreadsheets/d/1xu1WENCZlZizewKf2SAKWLoxGtug986qIJ4Tc5bXZiY/edit?usp=sharing)
-
-
 **The next section only concerns Design&Coding and Web Media students.**
 
 # Homework
 
 **Peer learning**: [one of the most effective ways](http://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/hattie-ranking-teaching-effects/) to learn something is to teach it to someone else. During this unit you'll be sharing your skills and knowledge in class, leading mini-tutorials and moderating debates. Starting with [your homework for next week](#peer-learning-research)!
 
-Please make a 5-10 presentation with prepared questions for the class. 
+Please make a 5-10 presentation with prepared questions for the class.
 
 Who | What
 --- | -----------
