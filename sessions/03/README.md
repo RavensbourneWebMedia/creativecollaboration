@@ -7,15 +7,15 @@
 * Workshop
 
 
-# Goals for this session
+### Learning outcomes for this session
 
-### Goals
+**Learning outcomes**
 
 * Have your first peer-to-peer Lecture for the term
 * Understand branding at a deeper level
 
 
-### Questions you should be able to answer at the end
+**Questions you should be able to answer at the end**
 
 * What is branding? And why does it matter?
 * Am I ready for the presentation next week?
@@ -25,10 +25,21 @@
 Who | What
 --- | -----------
 Callum<br>Peyman<br>Milton | What do we mean by 'branding'?
-Mayur<br>Claranz<br>Micheal | What do we mean when we say 'brand propositioning'?
+Mayur<br>Micheal | What do we mean when we say 'brand propositioning'?
 Dominic<br>Richardo | What is 'unique selling proposition'?
 Emma<br>Jacob | Why is a 'brand leader' and 'brand ambassador' important?
 Kevin<br>Muhammad<br>Kaleshe | What does 'brand equity' mean?
+
+
+# In class
+
+**What is the most innovative brand you know of and why?**
+
+Spend 45 minutes researching your favourite brand and prepare a 5 minute presentation with questions for the group.
+
+* What is their history? How did they come about?
+* How has the brand changed through time?
+* What renders the brand distinctive from others?
 
 
 # Tutorials
