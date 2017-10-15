@@ -17,9 +17,9 @@ When | In class | Homework | Blog
 ---- | -------- | -------- | ----
 [Monday<br>02.10][1]| Welcome | Peer learning research: Branding | What is the biggest challenge with teamwork?
 Wednesday 04.10 | Creative Collaboration Wednesday session
-[Monday<br>09.10][2]| Tutorials | Continue homework from last week to present in class. | What are some of the current trends around contemporary branding? And why are the trends?
+[Monday<br>09.10][2]| Tutorials | Continue homework from last week to present in class. | What are some of the current trends around contemporary branding? And why are they trends?
 Wednesday 11.10 | Creative Collaboration Wednesday session
-[Monday<br>16.10][3]| <ul><li>Peer learning <li>TBA | Prepare formative | TBA
+[Monday<br>16.10][3]| <ul><li>Peer learning <li><li>Tutorials on project A<li> | Prepare for formative | What are some of the techniques to be persuasive when presenting? 
 Wednesday 18.10 | Creative Collaboration Wednesday session
 [Monday<br>23.10][4]| **Formative presentations** | TBA | TBA
 Wednesday 25.10 | Creative Collaboration Wednesday session
