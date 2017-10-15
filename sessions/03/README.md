@@ -2,28 +2,25 @@
 
 ### Today, Monday 16th October 2017
 
-* Welcome
+* Learning outcomes
 * Peer-to-peer lecture
 * Workshop
 * Tutorials
-* Homework
-* Blog
+
+### Your [homework](#homework) and [blog](#blog)!
 
 <img src="https://media.giphy.com/media/5wWf7GW1AzV6pF3MaVW/giphy.gif" width="900">
 
+### Learning outcomes
 
-### Learning outcomes for this session
-
-**Learning outcomes**
-
-* Have your first peer-to-peer Lecture for the term
-* Understand branding at a deeper level
-
+* Understand branding
+* Get to grips with innovation
 
 **Questions you should be able to answer at the end**
 
 * What is branding? And why does it matter?
 * Am I ready for the presentation next week?
+* Where does innovation begin?
 
 # Peer-to-peer Lecture
 
@@ -47,6 +44,7 @@ Spend 45 minutes researching the most innovative brand you know and prepare a 5 
 * How has the brand changed through time?
 * What renders the brand distinctive from others?
 
+<img src="https://i.pinimg.com/736x/22/a9/0e/22a90e03b0fc7c13d5fe957551f310b8--le-design-design-thinking.jpg" width="800">
 
 ### Tutorials
 

@@ -2,7 +2,6 @@
 
 ### Today, Monday 9th October 2017
 
-
 # Goals for this session
 
 ### Goals
@@ -41,4 +40,4 @@ Continue homework from last week to present in class.
 
 # Blog
 
-What are some of the current trends around contemporary branding? 
+What are some of the current trends around contemporary branding?
