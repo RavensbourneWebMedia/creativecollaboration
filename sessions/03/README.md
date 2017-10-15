@@ -6,6 +6,8 @@
 * Peer-to-peer lecture
 * Workshop
 * Tutorials
+* Homework
+* Blog
 
 <img src="https://media.giphy.com/media/5wWf7GW1AzV6pF3MaVW/giphy.gif" width="900">
 
@@ -46,7 +48,7 @@ Spend 45 minutes researching the most innovative brand you know and prepare a 5 
 * What renders the brand distinctive from others?
 
 
-# Tutorials
+### Tutorials
 
 To prepare you for next week we will go over your challenges and see if we can work through them together.
 
