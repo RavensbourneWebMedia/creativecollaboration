@@ -38,8 +38,9 @@ Kevin<br>Muhammad<br>Kaleshe | What does 'brand equity' mean?
 
 **What is the most innovative brand you know of and why?**
 
-Spend 45 minutes researching your favourite brand and prepare a 5 minute presentation with questions for the group.
+Spend 45 minutes researching the most innovative brand you know and prepare a 5 minute presentation with questions for the group.
 
+**Some questions you might ask yourself is:**
 * What is their history? How did they come about?
 * How has the brand changed through time?
 * What renders the brand distinctive from others?
