@@ -5,6 +5,9 @@
 * Welcome
 * Peer-to-peer lecture
 * Workshop
+* Tutorials
+
+<img src="https://media.giphy.com/media/5wWf7GW1AzV6pF3MaVW/giphy.gif" width="900">
 
 
 ### Learning outcomes for this session
@@ -31,7 +34,7 @@ Emma<br>Jacob | Why is a 'brand leader' and 'brand ambassador' important?
 Kevin<br>Muhammad<br>Kaleshe | What does 'brand equity' mean?
 
 
-# In class
+# Workshop
 
 **What is the most innovative brand you know of and why?**
 
