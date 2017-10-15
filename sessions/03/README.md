@@ -2,10 +2,10 @@
 
 ### Today, Monday 16th October 2017
 
-* Learning outcomes
-* Peer-to-peer lecture
-* Workshop
-* Tutorials
+1. Learning outcomes
+2. Peer-to-peer lecture
+3. Workshop
+4. Tutorials
 
 ### Your [homework](#homework) and [blog](#blog)!
 
@@ -34,6 +34,12 @@ Kevin<br>Muhammad<br>Kaleshe | What does 'brand equity' mean?
 
 
 # Workshop
+
+**What is innovation?**
+
+Talk to your side partner for 5 minutes and research online.
+
+Tell us what you have found!
 
 **What is the most innovative brand you know of and why?**
 
