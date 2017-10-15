@@ -4,7 +4,6 @@
 
 * Welcome
 * Peer-to-peer lecture
-* Lecture
 * Workshop
 
 
@@ -12,11 +11,14 @@
 
 ### Goals
 
-*
+* Have your first peer-to-peer Lecture for the term
+* Understand branding at a deeper level
+
 
 ### Questions you should be able to answer at the end
 
-*
+* What is branding? And why does it matter?
+* Am I ready for the presentation next week?
 
 # Peer-to-peer Lecture
 
@@ -28,12 +30,17 @@ Dominic<br>Richardo | What is 'unique selling proposition'?
 Emma<br>Jacob | Why is a 'brand leader' and 'brand ambassador' important?
 Kevin<br>Muhammad<br>Kaleshe | What does 'brand equity' mean?
 
-# Lecture
 
-# Workshop
+# Tutorials
 
+To prepare you for next week we will go over your challenges and see if we can work through them together.
 
 # Homework
 
+**Prepare for presentations next week with your group**
 
 # Blog
+
+Remember that when you are blogging use images, videos, graphs and other interesting ways to illustrate your thinking. Next week you will be pitching your brand-refresh and this is a great opportunity to reflect upon how to be persuasive.
+
+**What are some of the techniques to be persuasive when presenting?**
