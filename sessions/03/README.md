@@ -51,7 +51,9 @@ Spend 45 minutes researching the most innovative brand you know and prepare a 5 
 * How has the brand changed through time?
 * What renders the brand distinctive from others?
 
-<img src="https://i.pinimg.com/736x/22/a9/0e/22a90e03b0fc7c13d5fe957551f310b8--le-design-design-thinking.jpg" width="800">
+<img src="https://i.pinimg.com/736x/22/a9/0e/22a90e03b0fc7c13d5fe957551f310b8--le-design-design-thinking.jpg" width="600">
+
+**Is the brand desirable, viable and feasible? 
 
 # Tutorials
 
