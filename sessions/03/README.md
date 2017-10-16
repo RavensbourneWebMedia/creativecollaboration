@@ -53,7 +53,7 @@ Spend 45 minutes researching the most innovative brand you know and prepare a 5 
 
 <img src="https://i.pinimg.com/736x/22/a9/0e/22a90e03b0fc7c13d5fe957551f310b8--le-design-design-thinking.jpg" width="800">
 
-### Tutorials
+# Tutorials
 
 To prepare you for next week we will go over your challenges and see if we can work through them together.
 
