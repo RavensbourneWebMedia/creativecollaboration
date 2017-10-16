@@ -4,8 +4,8 @@
 
 1. [Learning outcomes](#learning-outcomes)
 2. [Peer-to-peer lecture](#peer-to-peer-lecture)
-3. Workshop
-4. Tutorials
+3. [Workshop](#workshop)
+4. [Tutorials](#tutorials)
 
 ### Your [homework](#homework) and [blog](#blog)!
 
@@ -21,6 +21,7 @@
 * What is branding? And why does it matter?
 * Am I ready for the presentation next week?
 * Where does innovation begin?
+* Why do we need innovation?
 
 # Peer-to-peer Lecture
 
