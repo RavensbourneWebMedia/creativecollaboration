@@ -3,7 +3,7 @@
 ### Today, Monday 16th October 2017
 
 1. [Learning outcomes](#learning-outcomes)
-2. [Peer-to-peer lecture](#Peer-to-peer-lecture)
+2. [Peer-to-peer lecture](#peer-to-peer-lecture)
 3. Workshop
 4. Tutorials
 
