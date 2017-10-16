@@ -40,7 +40,7 @@ Kevin<br>Muhammad<br>Kaleshe | What does 'brand equity' mean?
 
 Talk to your side partner for 5 minutes and research online.
 
-Tell us what you have found!
+Tell us what you have found! and show examples. 
 
 **What is the most innovative brand you know of and why?**
 
