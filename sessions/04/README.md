@@ -4,6 +4,7 @@
 
 * Presentations!
 
+<img src="https://media.giphy.com/media/1s12sL9GoOCoE/giphy.gif" width="900">
 
 # Goals for this session
 
