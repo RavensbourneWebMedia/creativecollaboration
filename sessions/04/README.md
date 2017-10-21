@@ -16,6 +16,13 @@
 
 [Link to google doc] (https://docs.google.com/a/rave.ac.uk/document/d/1EocEgM4vVE614luIDEZKb8hnml_fEkX76WHxuqWbQLk/edit?usp=sharing)
 
+# Re-introduce PROJECT B
+
+### Image Library
+
+* Have you find your theme yet?
+
+
 # Homework
 
 ### Peer-to-peer groups
