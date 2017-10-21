@@ -14,7 +14,7 @@
 
 # Presentations!
 
-[Link to google doc](https://docs.google.com/a/rave.ac.uk/document/d/1EocEgM4vVE614luIDEZKb8hnml_fEkX76WHxuqWbQLk/edit?usp=sharing)
+[Link to google doc for collective feedback](https://docs.google.com/a/rave.ac.uk/document/d/1EocEgM4vVE614luIDEZKb8hnml_fEkX76WHxuqWbQLk/edit?usp=sharing)
 
 # Re-introduce PROJECT B
 
@@ -22,7 +22,7 @@
 
 * Have you find your theme yet?
 
-You need to tell us your theme to set up hosting and domain. 
+You need to tell us your theme to set up hosting and domain.
 
 
 # Homework
