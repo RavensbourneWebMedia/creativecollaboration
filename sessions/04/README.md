@@ -12,7 +12,7 @@
 
 * Present your work and recieve feedback for consideration
 
-### Presentations!
+# Presentations!
 
 [Link to google doc](https://docs.google.com/a/rave.ac.uk/document/d/1EocEgM4vVE614luIDEZKb8hnml_fEkX76WHxuqWbQLk/edit?usp=sharing)
 
@@ -21,6 +21,8 @@
 ### Image Library
 
 * Have you find your theme yet?
+
+You need to tell us your theme to set up hosting and domain. 
 
 
 # Homework
