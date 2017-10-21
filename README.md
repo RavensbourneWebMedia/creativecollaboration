@@ -19,9 +19,9 @@ When | In class | Homework | Blog
 Wednesday 04.10 | Creative Collaboration Wednesday session
 [Monday<br>09.10][2]| Tutorials | Continue homework from last week to present in class. | What are some of the current trends around contemporary branding? And why are they trends?
 Wednesday 11.10 | Creative Collaboration Wednesday session
-[Monday<br>16.10][3]| <ul><li>Peer learning <li>Tutorials on project A | Prepare for formative | What are some of the techniques to be persuasive when presenting? 
+[Monday<br>16.10][3]| <ul><li>Peer learning <li>Tutorials on project A | Prepare for formative | What are some of the techniques to be persuasive when presenting?
 Wednesday 18.10 | Creative Collaboration Wednesday session
-[Monday<br>23.10][4]| **Formative presentations** | TBA | TBA
+[Monday<br>23.10][4]| **Formative presentations** | Peer-to-peer lecture | Reflect on your participation in this project so far and share your biggest learning.
 Wednesday 25.10 | Creative Collaboration Wednesday session
 [Monday<br>30.10][5]| <ul><li>Peer learning <li>TBA | TBA | TBA
 Wednesday 01.11 | Creative Collaboration Wednesday session
