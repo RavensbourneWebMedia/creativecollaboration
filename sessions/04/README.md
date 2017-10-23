@@ -10,19 +10,19 @@
 
 ### Learning goals for this session
 
-* Present your work and recieve feedback for consideration
+* Present your work and receive feedback for consideration
+
+# Re-introduce PROJECT B (Tutorials)
+
+### Image Library
+
+* Have you found your theme yet?
+
+You need to tell us your theme to set up hosting and domain.
 
 # Presentations!
 
 [Link to google doc for collective feedback](https://docs.google.com/a/rave.ac.uk/document/d/1EocEgM4vVE614luIDEZKb8hnml_fEkX76WHxuqWbQLk/edit?usp=sharing)
-
-# Re-introduce PROJECT B
-
-### Image Library
-
-* Have you find your theme yet?
-
-You need to tell us your theme to set up hosting and domain.
 
 
 # Homework
