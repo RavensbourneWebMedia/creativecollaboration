@@ -62,6 +62,8 @@ In that MarkDown document, include the following:
 
 - [ ] Link to your **summative presentation**   
 
+- [ ] **Your report should be uploaded as a separate PDF**
+
 	Preferably a Google Slides link.   
 
 	If you use Keynote/Powerpoint export a PDF, upload it to Google Drive or SlideShare, and then grab the link to it.
