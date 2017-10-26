@@ -2,59 +2,27 @@
 
 ### Today, Monday 30th October 2017
 
-* Peer-to-peer mini-lesson
-* Lecture
-* Workshop
+Pitch to Millennium Images 09.00 - 11.30
 
+This is when you pitch and present your site to Jason Shenai & everyone needs to be in class by 09.00. Arriving late becomes a distraction for those people presenting so if you aren't in class on time you will have to wait in the corridor until a suitable break.
 
-# Goals for this session
+Do this with your Web Media partners.
 
-### Goals
+Make sure that you rehearse in advance
 
-* Understand SEO
+Afterwards there will be scheduled Tutorials - in teams
 
-### Questions you should be able to answer at the end
-
-* What is SEO?
-* Where did search begin?
-
-# Peer-to-peer Mini-Lesson
-
-Who | What
---- | -----------
-Callum<br>Peyman<br>Milton | What is the history of search online?
-Mayur<br>Micheal | What is SEO? What is SEO not?
-Dominic<br>Richardo | What is the Long Tail?
-Emma<br>Jacob | Why are 'keywords' important in SEO?
-Kevin<br>Muhammad<br>Kaleshe | Why are 'backlinks' important in SEO?
-
-
-# Lecture
-
-Can I show the google film here? So we can talk about it.
-
-Group 1 - Name
-Group 2 - Name
-Group 4 - Name
-Group 5 - Name
-
-# Workshop
-
-* Set up Wordpress
-* Install woocommerce
-* Decide who is going to do what on the website
+12.00 - 12.30 - Team 1
+12.30 - 13.00 - Team 2
+13.00 - 13.30 - Team 3
+13.30 - 14.00 - Team 4
+14.00 - 14.30 - Team 5
 
 # Homework
 
-Who | What
---- | -----------
-Callum<br>Peyman<br>Milton | What is the history of search online?
-Mayur<br>Micheal | What is SEO? What is SEO not?
-Dominic<br>Richardo | What is the Long Tail?
-Emma<br>Jacob | Why are 'keywords' important in SEO?
-Kevin<br>Muhammad<br>Kaleshe | Why are 'backlinks' important in SEO?
+Continue preparing mini-lesson from previous week 4.
 
 
 # Blog
 
-Is SEO still relevant? 
+Reflect on how you have become a better team worker over the last couple of weeks.
