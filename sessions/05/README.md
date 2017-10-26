@@ -11,12 +11,11 @@ Do this with your Web Media partners.
 Make sure that you rehearse in advance
 
 Afterwards there will be scheduled Tutorials - in teams
-
-12.00 - 12.30 - Team 1
-12.30 - 13.00 - Team 2
-13.00 - 13.30 - Team 3
-13.30 - 14.00 - Team 4
-14.00 - 14.30 - Team 5
+* 12.00 - 12.30 - Team 1
+* 12.30 - 13.00 - Team 2
+* 13.00 - 13.30 - Team 3
+* 13.30 - 14.00 - Team 4
+* 14.00 - 14.30 - Team 5
 
 # Homework
 
