@@ -23,7 +23,7 @@ Wednesday 11.10 | Creative Collaboration Wednesday session
 Wednesday 18.10 | Creative Collaboration Wednesday session
 [Monday<br>23.10][4]| **Formative presentations** | Peer-to-peer lecture | Reflect on your participation in this project so far and share your biggest learning.
 Wednesday 25.10 | Creative Collaboration Wednesday session
-[Monday<br>30.10][5]| <ul><li>Peer learning <li>TBA | TBA | TBA
+[Monday<br>30.10][5]| <ul><li>Present to Jason <li>Tutorials | Continue creating mini-lesson |Reflect on how you have become a better team worker over the last couple of weeks.
 Wednesday 01.11 | Creative Collaboration Wednesday session
 [Monday<br>06.11][6]| <ul><li>Peer learning <li>TBA | TBA | TBA
 Wednesday 08.11 | Creative Collaboration Wednesday session
