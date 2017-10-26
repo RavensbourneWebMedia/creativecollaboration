@@ -11,16 +11,17 @@ Do this with your Digital Photography partners.
 Make sure that you rehearse in advance
 
 Afterwards there will be scheduled Tutorials - in teams
-* 12.00 - 12.30 - Team 1
-* 12.30 - 13.00 - Team 2
-* 13.00 - 13.30 - Team 3
-* 13.30 - 14.00 - Team 4
-* 14.00 - 14.30 - Team 5
+* 12.00 - 12.30 - Team 1 Roots - Callum (c.lovekin@students.rave.ac.uk)
+* 12.30 - 13.00 - Team 2 Patch - Mayur (m.soneji@students.rave.ac.uk)
+* 13.00 - 13.30 - Team 3 Froodle - Domonic (d.bishop@students.rave.ac.uk)
+* 13.30 - 14.00 - Team 4 Glaze - Emma (e.roberts@students.rave.ac.uk)
+* 14.00 - 14.30 - Team 5 Linear - Kaleshe (k.alleyne-vassel@students.rave.ac.uk)
 
 # Homework
 
 Continue preparing mini-lesson from previous week 4.
 
+Find a suitable Wordpress Theme for this project and install Wordpress on your hosting. This theme should be compatible with WooCommerce, which is the shop plug-in we will be using for this project. 
 
 # Blog
 
