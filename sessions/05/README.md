@@ -2,7 +2,7 @@
 
 ### Today, Monday 30th October 2017
 
-* Peer-to-peer lecture
+* Peer-to-peer mini-lesson
 * Lecture
 * Workshop
 
@@ -18,7 +18,7 @@
 * What is SEO?
 * Where did search begin?
 
-# Peer-to-peer Lecture
+# Peer-to-peer Mini-Lesson
 
 Who | What
 --- | -----------
@@ -31,15 +31,30 @@ Kevin<br>Muhammad<br>Kaleshe | Why are 'backlinks' important in SEO?
 
 # Lecture
 
+Can I show the google film here? So we can talk about it.
+
+Group 1 - Name
+Group 2 - Name
+Group 4 - Name
+Group 5 - Name
+
 # Workshop
 
-* Set up wordpress
+* Set up Wordpress
 * Install woocommerce
-* Decide who is going to do what on the website 
-
-
+* Decide who is going to do what on the website
 
 # Homework
 
+Who | What
+--- | -----------
+Callum<br>Peyman<br>Milton | What is the history of search online?
+Mayur<br>Micheal | What is SEO? What is SEO not?
+Dominic<br>Richardo | What is the Long Tail?
+Emma<br>Jacob | Why are 'keywords' important in SEO?
+Kevin<br>Muhammad<br>Kaleshe | Why are 'backlinks' important in SEO?
+
 
 # Blog
+
+Is SEO still relevant? 
