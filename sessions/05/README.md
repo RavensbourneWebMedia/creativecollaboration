@@ -6,7 +6,7 @@ Pitch to Millennium Images 09.00 - 11.30
 
 This is when you pitch and present your site to Jason Shenai & everyone needs to be in class by 09.00. Arriving late becomes a distraction for those people presenting so if you aren't in class on time you will have to wait in the corridor until a suitable break.
 
-Do this with your Web Media partners.
+Do this with your Digital Photography partners.
 
 Make sure that you rehearse in advance
 
