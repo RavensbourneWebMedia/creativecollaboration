@@ -33,3 +33,5 @@ You will have team tutorials with Tor & Geraint on Monday 6/11/17 in room 107. H
 
 
 # Blog
+
+What are your strength and weaknesses in relation to completing this project? And how are you going to address them?
