@@ -21,6 +21,10 @@ You should be out generating material for this unit now & at the same time devel
 * Colour scheme (several)
 * How is the picture library innovative?
 
+**This is a template you could use to develop your personas:**
+
+<img src="https://github.com/RavensbourneWebMedia/FinalMajorProject-/blob/2017/2018/assets%20/Empathy-Map-No-Stickies.png" width="700">
+
 You will have team tutorials with Tor & Geraint on Monday 6/11/17 in room 107. Here's the schedule:
 * 10.00 - 10.30 - Team 5
 * 10.30 - 11.00 - Team 3
