@@ -9,7 +9,7 @@ In particular, you will learn:
 * Rebranding
 * Working in teams
 * SEO
-* Advanced wordpress
+* Advanced Wordpress
 
 # Plan
 
@@ -25,7 +25,7 @@ Wednesday 18.10 | Creative Collaboration Wednesday session
 Wednesday 25.10 | Creative Collaboration Wednesday session
 [Monday<br>30.10][5]| <ul><li>Present to Jason <li>Tutorials | Continue creating mini-lesson |Reflect on how you have become a better team worker over the last couple of weeks.
 Wednesday 01.11 | Creative Collaboration Wednesday session
-[Monday<br>06.11][6]| <ul><li>Peer learning <li>TBA | TBA | TBA
+[Monday<br>06.11][6]| <ul><li>Tutorials in class | Finish your mini-lesson for next week | What are your strength and weaknesses in relation to completing this project? And how are you going to address them?
 Wednesday 08.11 | Creative Collaboration Wednesday session
 [Monday<br>13.11][7]| <ul><li>Peer learning <li>TBA | TBA | TBA
 Wednesday 15.11 | Creative Collaboration Wednesday session

@@ -35,6 +35,7 @@ You will have team tutorials with Tor & Geraint on Monday 6/11/17 in room 107. H
 
 # Homework
 
+Finish your mini-lessons for next week. 
 
 # Blog
 
