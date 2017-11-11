@@ -3,7 +3,7 @@
 ### Today, Monday 13th November 2017
 
 * Mini-lessons
-* Install Wordpress / Plug-ins
+* Install Wordpress / Find themes & Plug-ins
 * Create criteria’s to critique each others work
 * Evaluate each others design accordingly to those criteria's
 
@@ -35,7 +35,7 @@ Kevin<br>Muhammad<br>Kaleshe | Why are 'backlinks' important in SEO?
 
 # Create criteria’s to critique each others work
 
-# valuate each others design accordingly to those criteria's
+# Evaluate each others design accordingly to those criteria's
 
 
 # Homework
