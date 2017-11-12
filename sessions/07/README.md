@@ -11,7 +11,7 @@
 
 <img src="https://media.giphy.com/media/ccDN2uPoXUu3u/giphy.gif" width="900">
 
-# Learning Goals for this session
+### Learning Goals for this session
 
 ### Goals
 
@@ -22,7 +22,7 @@
 * How to work with plug-ins in Wordpress
 * Collectively create assessment criterion to evaluate each others design
 
-# Mini-lessons
+### Mini-lessons
 
 Who | What
 --- | -----------
@@ -54,7 +54,7 @@ Kevin<br>Muhammad<br>Kaleshe | Why are 'backlinks' important in SEO?
 
 <img src="assets/reflection.jpg" width="900">
 
-# Homework
+### Homework
 
 Who | What
 --- | -----------
@@ -65,6 +65,6 @@ Emma<br>Jacob | What is the optimal title tags and where should the keyword be p
 Kevin<br>Muhammad<br>Kaleshe | How long should the body text be at least?
 
 
-# Blog
+### Blog
 
 How are you going to use SEO to extend the reach of your Image Library? Give some examples.
