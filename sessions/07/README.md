@@ -35,7 +35,7 @@ Kevin<br>Muhammad<br>Kaleshe | Why are 'backlinks' important in SEO?
 
 <img src="assets/wordpress.png" width="900">
 
-# Create criterion to critique each others work
+### Create criterion to critique each others work
 
 <img src="assets/assessment.jpg" width="900">
 
@@ -49,7 +49,9 @@ Kevin<br>Muhammad<br>Kaleshe | Why are 'backlinks' important in SEO?
 
 **Can you think of more criterion?**
 
-# Evaluate each others design accordingly to those criteria's
+### Evaluate each others design accordingly to those criteria's
+
+<img src="assets/reflection.jpg" width="900">
 
 # Homework
 
