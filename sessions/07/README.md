@@ -40,13 +40,13 @@ Kevin<br>Muhammad<br>Kaleshe | Why are 'backlinks' important in SEO?
 
 <img src="assets/assessment.jpg" width="900">
 
-### Some examples
+### Some ideas
 
 * User friendliness
 * Colour choices
 * The use of typography
-* What is the website meant to do?
-* Who is the website for?
+* Is the website doing what it is meant to?
+* Is the website designed for its target audience?
 
 **Can you think of more criterion?**
 
@@ -58,12 +58,11 @@ Kevin<br>Muhammad<br>Kaleshe | Why are 'backlinks' important in SEO?
 
 Who | What
 --- | -----------
-Callum<br>Peyman<br>Milton | Why does it matter to have a good site architecture for SEO? (Think google crawlers)
-Mayur<br>Micheal | What it the optimal site load? Who cares?
-Dominic<br>Richardo | For SEO, what should your URL look like?
-Emma<br>Jacob | What is the optimal title tags and where should the keyword be placed?
-Kevin<br>Muhammad<br>Kaleshe | How long should the body text be at least?
-
+Callum<br>Mayur| Why does it matter to have a good site architecture for SEO? (Think google crawlers)
+Micheal<br>Dominic | What it the optimal site load? Why does it matter for SEO?
+Muhammad<br>Richardo<br>Milton  | For optimal SEO, what should your URL look like?
+Emma<br>Kaleshe<br>Peyman | What is the optimal title length and where should the keyword be placed?
+Kevin<<br>Jacob | How long should the body text be at least? How many times should you use keywords?
 
 ### Blog
 

@@ -27,7 +27,7 @@ Wednesday 25.10 | Creative Collaboration Wednesday session
 Wednesday 01.11 | Creative Collaboration Wednesday session
 [Monday<br>06.11][6]| <ul><li>Tutorials in class | Finish your mini-lesson for next week | What are your strength and weaknesses in relation to completing this project? And how are you going to address them?
 Wednesday 08.11 | Creative Collaboration Wednesday session
-[Monday<br>13.11][7]| <ul><li>Peer learning <li>TBA | TBA | TBA
+[Monday<br>13.11][7]| <ul><li>Mini-lessons<li>Install Wordpress<li>Collectively create assessment criterion<li>Evaluate each others work | Mini-lessons | How are you going to use SEO to extend the reach of your Image Library? Give some examples.
 Wednesday 15.11 | Creative Collaboration Wednesday session
 [Monday<br>20.11][8]| <ul><li>Peer learning <li>TBA | TBA | TBA
 Wednesday 22.11 | Creative Collaboration Wednesday session
