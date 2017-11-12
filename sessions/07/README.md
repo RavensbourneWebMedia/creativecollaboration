@@ -31,11 +31,13 @@ Dominic<br>Richardo | What is the Long Tail?
 Emma<br>Jacob | Why are 'keywords' important in SEO?
 Kevin<br>Muhammad<br>Kaleshe | Why are 'backlinks' important in SEO?
 
-# Install Wordpress / Themes/ Plug-ins
+### Install Wordpress / Themes/ Plug-ins
 
 <img src="assets/wordpress.png" width="900">
 
 # Create criterion to critique each others work
+
+<img src="assets/assessment.jpg" width="900">
 
 ### Some examples
 
