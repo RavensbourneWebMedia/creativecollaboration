@@ -4,7 +4,7 @@
 
 * Mini-lessons
 * Install Wordpress / Find themes & Plug-ins
-* Create criteria’s to critique each others work
+* Collectively create assessment criterion to critique each others work
 * Evaluate each others design accordingly to those criteria's
 
 ### Your [homework](#homework) and [blog](#blog)!
@@ -19,7 +19,7 @@
 * The get an introduction to the history of search
 * How to install Wordpress on their hosting
 * How to work with plug-ins in Wordpress
-* Coming up with criteria to evaluate each others design
+* Collectively create assessment criterion to evaluate each others design
 
 # Mini-lessons
 
@@ -35,16 +35,25 @@ Kevin<br>Muhammad<br>Kaleshe | Why are 'backlinks' important in SEO?
 
 <img src="assets/wordpress.png" width="900">
 
-# Create criteria’s to critique each others work
+# Create criterion to critique each others work
+
+### Some examples
+
+* User friendliness
+* Colour choices
+* The use of typography
+* What is the website meant to do?
+* Who is the website for?
+
+**Can you think of more criterion?**
 
 # Evaluate each others design accordingly to those criteria's
-
 
 # Homework
 
 Who | What
 --- | -----------
-Callum<br>Peyman<br>Milton | Why does it matter to have a good site arcitechture for SEO? (Think google crawlers)
+Callum<br>Peyman<br>Milton | Why does it matter to have a good site architecture for SEO? (Think google crawlers)
 Mayur<br>Micheal | What it the optimal site load? Who cares?
 Dominic<br>Richardo | For SEO, what should your URL look like?
 Emma<br>Jacob | What is the optimal title tags and where should the keyword be placed?
@@ -53,4 +62,4 @@ Kevin<br>Muhammad<br>Kaleshe | How long should the body text be at least?
 
 # Blog
 
-How are you going to use SEO to extend the reach of your image library? Give some examples.
+How are you going to use SEO to extend the reach of your Image Library? Give some examples.
