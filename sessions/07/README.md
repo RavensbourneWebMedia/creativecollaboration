@@ -9,6 +9,7 @@
 
 ### Your [homework](#homework) and [blog](#blog)!
 
+<img src="https://media.giphy.com/media/ccDN2uPoXUu3u/giphy.gif" width="900">
 
 # Learning Goals for this session
 
