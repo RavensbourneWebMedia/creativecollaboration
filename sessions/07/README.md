@@ -54,6 +54,8 @@ Kevin<br>Muhammad<br>Kaleshe | Why are 'backlinks' important in SEO?
 
 <img src="assets/reflection.jpg" width="900">
 
+### Change your designs according to feedback.
+
 ### Homework
 
 Who | What
