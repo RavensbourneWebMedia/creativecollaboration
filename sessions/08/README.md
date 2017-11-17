@@ -9,7 +9,7 @@
 
 ## Goals for this session
 
-### Goals
+**Learning goals**
 
 * A furthered understanding of SEO & keywords
 * Investigate the role of social media
@@ -54,5 +54,6 @@ Group tutorials
 
 Prepare for summative next week.
 
-
 ## Blog
+
+Explore good examples of good social media marketing. Analyse at least three pieces of work and then blog about them. 
