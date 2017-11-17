@@ -31,10 +31,10 @@ Wednesday 08.11 | Creative Collaboration Wednesday session
 Wednesday 15.11 | Creative Collaboration Wednesday session
 [Monday<br>20.11][8]| <ul><li>Peer-to-peer mini-lesson <li>Create and present in class peer-to-peer mini-lesson<li>Workshop<li>Tutorials | Prepare for summative next week | Explore good examples of good social media marketing. Analyse at least three pieces of work and then blog about them.
 Wednesday 22.11 | Creative Collaboration Wednesday session
-[Monday<br>27.11][9]| **Prepare for summative** | **Prepare for summative** | TBA
+[Monday<br>27.11][9]| **Prepare for summative** | **Prepare for summative** | Reflect on your blog in week 6 and write about how your approach has changed since then.
 Wednesday 29.11 | Creative Collaboration Wednesday session | **SUMMATIVE PRESENTATION**
 [Monday<br>04.12][10]| Portfolio session with guest lecturer
-[Monday<br>12.12][11]| Portfolio session with guest lecturer 
+[Monday<br>12.12][11]| Portfolio session with guest lecturer
 
 # Projects
 
