@@ -33,8 +33,8 @@ Wednesday 15.11 | Creative Collaboration Wednesday session
 Wednesday 22.11 | Creative Collaboration Wednesday session
 [Monday<br>27.11][9]| **Prepare for summative** | **Prepare for summative** | TBA
 Wednesday 29.11 | Creative Collaboration Wednesday session | **SUMMATIVE PRESENTATION**
-[Monday<br>04.12][10]| <ul><li>Peer learning <li>TBA | TBA | TBA
-[Monday<br>12.12][11]| <ul><li>Peer learning <li>TBA | TBA
+[Monday<br>04.12][10]| Portfolio session with guest lecturer
+[Monday<br>12.12][11]| Portfolio session with guest lecturer 
 
 # Projects
 
