@@ -29,8 +29,8 @@ Wednesday 01.11 | Creative Collaboration Wednesday session
 Wednesday 08.11 | Creative Collaboration Wednesday session
 [Monday<br>13.11][7]| <ul><li>Mini-lessons<li>Install Wordpress<li>Collectively create assessment criterion<li>Evaluate each others work | Mini-lessons | How are you going to use SEO to extend the reach of your Image Library? Give some examples.
 Wednesday 15.11 | Creative Collaboration Wednesday session
-[Monday<br>20.11][8]| <ul><li>Peer-to-peer mini-lesson <li>Create and present in class peer-to-peer mini-lesson<li>Workshop<li>Tutorials | Prepare for summative next week. |
-Explore good examples of good social media marketing. Analyse at least three pieces of work and then blog about them. 
+[Monday<br>20.11][8]| <ul><li>Peer-to-peer mini-lesson <li>Create and present in class peer-to-peer mini-lesson<li>Workshop<li>Tutorials | Prepare for summative next week |
+Explore good examples of good social media marketing. Analyse at least three pieces of work and then blog about them.
 Wednesday 22.11 | Creative Collaboration Wednesday session
 [Monday<br>27.11][9]| **Prepare for summative** | **Prepare for summative** | TBA
 Wednesday 29.11 | Creative Collaboration Wednesday session | **SUMMATIVE PRESENTATION**

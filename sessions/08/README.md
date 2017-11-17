@@ -2,9 +2,9 @@
 
 ### Today, Monday 20th November 2017
 
-* Welcome
 * Peer-to-peer mini-lesson
 * Create and present in class peer-to-peer mini-lesson
+* Workshop
 * Tutorials
 
 ## Goals for this session
@@ -56,4 +56,4 @@ Prepare for summative next week.
 
 ## Blog
 
-Explore good examples of good social media marketing. Analyse at least three pieces of work and then blog about them. 
+Explore good examples of good social media marketing. Analyse at least three pieces of work and then blog about them.
