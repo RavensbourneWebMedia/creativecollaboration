@@ -46,6 +46,10 @@ Callum<br>Mayur | What does a good social media profile look like?
 * Product truth
 * Competitor insight
 
+![customerinsight1](assets/customerinsight1.png)
+![customerinsight1](assets/customerinsight2.png)
+
+
 ## Tutorials
 
 Group tutorials
