@@ -33,7 +33,7 @@ Who | What
 Micheal<br>Dominic | What is no-follow and dofollow?
 Muhammad<br>Richardo<br>Milton  | What is a good example of content marketing?
 Emma<br>Kaleshe<br>Peyman | What is black hat and white hat SEO?
-Kevin<<br>Jacob | How often and when should you post on Social Media?
+Kevin<br>Jacob | How often and when should you post on Social Media?
 Callum<br>Mayur | What does a good social media profile look like?
 
 ## Workshop
