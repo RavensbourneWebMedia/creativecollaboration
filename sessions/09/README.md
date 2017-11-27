@@ -3,7 +3,7 @@
 ### Today, Monday 27th of November 2017
 
 * Tutorials
-* Go through checklist together to ensure everyhing is covered.
+* Go through checklist together to ensure everything is covered.
 
 # Checklist
 
@@ -74,11 +74,11 @@ In that MarkDown document, include the following:
 
 - [	] Images and texts to make your document more pleasant to read (see an example of an excellent `COURSECODE-Name-Surname.md` [here](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/README.md)).
 
-#### Moodle link
+#### Moodle upload
 
 > Make sure all the folders, pages, documents & presentations you linked in your `WEB14202-Name-Surname.md` are publicly accessible (not just private to you)!
 
-**Upload and submit** your `WEB14202-Name-Surname.md` through Moodle here [https://moodle.rave.ac.uk/course/view.php?id=4563](https://moodle.rave.ac.uk/course/view.php?id=4563)
+**Upload and submit** your `WEB14202-Name-Surname.md` through Moodle
 
 **Deadline**
 
